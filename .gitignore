@@ -35,3 +35,6 @@ next-env.d.ts
 # locks
 package-lock.json
 
+# Keep public directory
+!public/.gitkeep
+
